@@ -60,3 +60,8 @@ git clone https://github.com/gqkfh/snusbase-bot
 ```shell
 python main.py
 ```
+
+<hr>
+
+- **[GitHub](https://github.com/gqkfh/snusbase-bot)**
+- **[Guns.lol](https://guns.lol/j0k3r_)**
