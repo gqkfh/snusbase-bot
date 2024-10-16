@@ -146,12 +146,12 @@ async def helpcommands(ctx):
         color=COLOR
     )
     
-    embed.add_field(name="`.snusbase` <username>", value="", inline=False)
-    embed.add_field(name="`.snusbase` <email>", value="", inline=False)
-    embed.add_field(name="`.snusbase` <ip>", value="", inline=False)
-    embed.add_field(name="`.snusbase` <password>", value="", inline=False)
-    embed.add_field(name="`.snusbase` <hash>", value="", inline=False)
-    embed.add_field(name="`.snusbase` <name>", value="", inline=False)
+    embed.add_field(name="☝️ `.snusbase` <username>", value="", inline=False)
+    embed.add_field(name="🛠️ `.snusbase` <email>", value="", inline=False)
+    embed.add_field(name="🚀 `.snusbase` <ip>", value="", inline=False)
+    embed.add_field(name="❓ `.snusbase` <password>", value="", inline=False)
+    embed.add_field(name="🌐 `.snusbase` <hash>", value="", inline=False)
+    embed.add_field(name="📫 `.snusbase` <name>", value="", inline=False)
 
     embed.set_footer(text=AUTHOR)
 
