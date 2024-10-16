@@ -26,3 +26,9 @@ try:
 except:
     os.system('pip install discord.py requests asyncio colorama')
 ```
+
+-  **1. Replace your data in the config.json file**
+
+```
+
+```
