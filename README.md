@@ -45,7 +45,7 @@ git clone https://github.com/gqkfh/snusbase-bot
 
 -  **2. `Replace your data` in the config.json file**
 
-```
+```json
 {
     "token": "YOUR_BOT_TOKEN",
     "activity": "YOUR_BOT_ACTIVITY",
