@@ -1,7 +1,7 @@
 {
-    "token": "",
-    "activity": "",
-    "prefix": "",
-    "embedColor": "",
-    "author": ""
+    "token": "YOUR_BOT_TOKEN",
+    "activity": "YOUR_BOT_ACTIVITY",
+    "prefix": "YOUR_BOT_PREFIX",
+    "embedColor": "YOUR_MESSAGE_COLOR",
+    "author": "YOUR_USERNAME"
 }
