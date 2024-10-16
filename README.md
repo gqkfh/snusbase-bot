@@ -12,3 +12,17 @@ SNUSBASE PYTHON  BOT
        ├── 🎉 .snusbase <hash>
        └── 📫 .snusbase <name>
 ```
+
+> **Auto Installing libraries**
+
+```python
+import os
+
+try:
+    import discord, requests, json, asyncio
+    from colorama import Fore
+    from discord.ext import commands
+
+except:
+    os.system('pip install discord.py requests asyncio colorama')
+```
